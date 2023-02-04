@@ -1,0 +1,8 @@
+*.log
+.DS_Store
+example/dist
+example/node_modules
+node_modules
+.cache
+dist
+.idea
